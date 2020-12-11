@@ -1,0 +1,19 @@
+/* RESET CSS */
+*{
+    margin:0px;
+    padding:0px;
+    border:0px;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+ol, li, ol {
+    list-style: none;
+}
+/* CSS CODES */
+body{
+    background-color: rgb(8,8,8);
+    color:white;
+    font-family: sans-serif;
+}
